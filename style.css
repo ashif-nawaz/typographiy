@@ -801,7 +801,7 @@ form label{
 @media screen and (max-width: 785px){
     html{
         /* font-size: clamp(100%, 1.4rem + 2vw, 24px); */
-        font-size: 1.4rem;
+        font-size: 20px;
     }
    
     .logo{
@@ -916,7 +916,9 @@ form label{
 
 }
 @media screen and (max-width: 600px){
-   
+   html{
+    font-size: 20px;
+   }
     .booking{
         top: 50%;
        border-radius: none;
