@@ -264,7 +264,7 @@ input[type="date"]:focus,input[type="number"]:focus,select:focus,.row button:foc
     text-transform: uppercase;
     font-family: sans-serif;
     font-weight: 100;
-    font-size: 1.2rem;
+    font-size: 1rem;
     white-space: nowrap;
     max-width: fit-content;
     margin: auto;
