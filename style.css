@@ -799,6 +799,9 @@ form label{
 
 
 @media screen and (max-width: 785px){
+    html{
+        font-size: clamp(140%, 1rem + 2vw, 24px);
+    }
    
     .logo{
         width: 80%;
